@@ -20,13 +20,8 @@ Welcome to my GitHub profile! I'm a passionate programmer exploring various lang
 ### Tools & Frameworks
 - Git & GitHub
 - Visual Studio Code
-
 - MySQL
 
-
-
-
-  
 Feel free to check out my repositories and give them a star if you like what you see! ⭐
 
 ## 📫 Connect with Me
