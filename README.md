@@ -20,10 +20,10 @@ Welcome to my GitHub profile! I'm a passionate programmer exploring various lang
 ### Tools & Frameworks
 - Git & GitHub
 - Visual Studio Code
-- PostgreSQL
+
 - MySQL
-- SQLite
-- Jupyter Notebooks
+
+
 
 
   
